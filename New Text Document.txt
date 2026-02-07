@@ -1,0 +1,14 @@
+building-portfolio-analytics/
+│
+├── data/
+│   └── buildings_sample.csv
+│
+├── notebook/
+│   └── Building_Portfolio_Analytics.ipynb
+│
+├── outputs/
+│   └── (charts + summary files)
+│
+├── requirements.txt
+│
+└── README.md
